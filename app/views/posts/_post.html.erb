@@ -1,0 +1,13 @@
+<p>
+  <h2>
+  <%= link_to post.title, post %>
+  </h2>
+</p>
+
+<p><%= simple_format post.content %></p>
+
+<p class="text-muted">
+	<small>
+Posted on <%= post.created_at.to_formatted_s(:lang) %>
+	</small>
+</p>
