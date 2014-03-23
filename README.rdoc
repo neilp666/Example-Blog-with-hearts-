@@ -1,0 +1,9 @@
+== README
+
+This is a blog made using ruby on rails 
+
+* Ruby version 2.0 
+
+* Rails Version 4.0.4
+
+* Bootrap - CDN
