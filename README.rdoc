@@ -1,6 +1,8 @@
 == README
 
-This is a blog made using ruby on rails 
+This is a basic blog which enables you to upload content and pictures
+
+It aslo allows the reader to <heart> the post as well
 
 * Ruby version 2.0 
 
